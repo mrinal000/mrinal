@@ -8,7 +8,7 @@ education:
     - course: Associate Degree in Applied Statistics
       institution: IGNOU
       year: 2018
-    - course: Masters in Public Health
+    - course: Master in Public Health
       institution: Utkal University
       year: 2017
 email: ""
