@@ -40,6 +40,9 @@ url_slides: ""
 url_source: '#'
 url_video: '#'
 ---
+{{% alert note %}}
+Click the *Cite* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
